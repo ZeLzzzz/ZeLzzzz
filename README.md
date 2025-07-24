@@ -12,4 +12,4 @@ I'm developer with expertise in building applications for various platforms, inc
 
 ## Connect with Me
 
-[![Discord Badge](https://img.shields.io/badge/Discord-@_zelzzz-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/768484682089627678)
+[![Discord Badge](https://img.shields.io/badge/Discord-@_zelzzz-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/768484682089627678)[![Gmail Badge](https://img.shields.io/badge/Gmail-zelzzz534@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zelzzz534@gmail.com)
