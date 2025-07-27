@@ -9,7 +9,7 @@ I'm developer with expertise in building applications for various platforms, inc
 ## Skills & Technologies 🧩
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,html,css,tailwind,php,dart,dotnet,laravel,flutter,firebase,mysql,sqlite&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,figma,html,css,tailwind,php,dart,dotnet,laravel,flutter,firebase,mysql,sqlite&perline=7)](https://skillicons.dev)
   
 </div>
 
